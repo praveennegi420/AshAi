@@ -1,4 +1,4 @@
-# AshAI(https://ashai.netlify.app/)
+# [AshAI](https://ashai.netlify.app/)
 
 ## Features of this App 🤖
 
