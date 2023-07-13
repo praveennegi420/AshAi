@@ -1,8 +1,8 @@
 # AshAI
 
-## Purpose of this App 🤖
+## Features of this App 🤖
 
-To generate website, product copy, and brianstorm ideas with OpenAI's Generative Pre-trained Transformer 3 (GPT-3) an autoregressive language model that uses deep learning to produce human-like text.
+Generate website, product copy, and brianstorm ideas with OpenAI's Generative Pre-trained Transformer 3 (GPT-3) an autoregressive language model that uses deep learning to produce human-like text.
 
 ![theme croped](https://user-images.githubusercontent.com/29527450/229385033-67441a4b-77e5-48a5-a570-f27620d62892.jpg)
 
@@ -23,7 +23,7 @@ To generate website, product copy, and brianstorm ideas with OpenAI's Generative
 This repository is set up to run on a VPS with an express backend, to run it locally do the following: 
 
 1.  Fork and clone this repo
-2.  In Terminal open the directory ai-content
+2.  In Terminal open the directory `AshAi`
 3.  Check that Node.js is installed via Terminal by typing `node -v` if you don’t see a version [Install Node.js](https://nodejs.org/en/)
 4. In the `AshAi` directory type `npm install` to install any missing dependences.
 5. cd into the `AshAi/api` directory and type `npm install` to install any missing dependences.
@@ -33,7 +33,7 @@ This repository is set up to run on a VPS with an express backend, to run it loc
    API_KEY=abc123yourapikey
    PORT=6001
 ```
-8. In Terminal cd into the `ai-content/api` directory and `npm start`
+8. In Terminal cd into the `AshAi/api` directory and `npm start`
 9. finally, in Terminal cd in the ai-content directory and `npm start`
 
 ## Current app features ✨
@@ -46,6 +46,3 @@ This repository is set up to run on a VPS with an express backend, to run it loc
 - SEO Blog Intro Paragraph Generator
 - LinkedIn Job Description Generator
 - TL;DR Text SummarizerGenerator
-
-https://user-images.githubusercontent.com/29527450/229373842-d9e8182f-a0e7-4136-a040-b736db8e34fc.mov
-
